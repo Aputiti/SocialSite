@@ -11,14 +11,14 @@ const Layout = () => {
   return (
     <>
       <header>
-        <h1 className="bg-slate-950 pt-7 text-center text-4xl font-bold text-slate-50">
+        <h1 className="bg-slate-900 pt-7 text-center text-4xl font-bold text-slate-50">
           SocialSite
         </h1>
-        <p className="bg-slate-950 pt-7 text-center text-xl font-bold text-slate-50">
+        <p className="bg-slate-900 pt-7 text-center text-xl font-bold text-slate-50">
           Interact with people online, from anywhere.
         </p>
         <nav>
-          <ul className="flex justify-end bg-slate-950">
+          <ul className="flex justify-end bg-slate-900">
             <li>
               <Link
                 className="block p-4 text-center text-slate-50 hover:bg-slate-700"
@@ -79,7 +79,7 @@ const Layout = () => {
         <img src={socialBird} alt="mainImg" />
         <Outlet />
       </main>
-      <footer className="flex justify-end bg-slate-950 p-4">
+      <footer className="flex justify-end bg-slate-900 p-4">
         <p>2024</p>
       </footer>
     </>
