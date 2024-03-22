@@ -39,4 +39,4 @@ To explore the functionalities of **SocialSite**, simply visit [https://users.me
 
 Experience the fusion of innovation and collaboration with **SocialSite**. Join us today and start sharing your story!
 
-![Image of site](../socialSite/projImg.png)
+<img width="1470" alt="projImg" src="https://github.com/Aputiti/SocialSite/assets/111983344/72e6b2fd-9460-44f4-9c5a-8e4286bdc3b3">
