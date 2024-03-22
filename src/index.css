@@ -21,6 +21,7 @@
   margin: auto;
 }
 
-.p-9 {
-  min-height: 70vh !important;
+.p-9 img {
+  width: 10%;
+  height: 10%;
 }
