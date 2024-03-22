@@ -38,3 +38,5 @@ Every user is allocated a personalized profile page, where their individual info
 To explore the functionalities of **SocialSite**, simply visit [https://users.metropolia.fi/~abdura/socialSite/] to access the platform. From there, users can register, log in, and begin sharing their own media content while engaging with others within the community.
 
 Experience the fusion of innovation and collaboration with **SocialSite**. Join us today and start sharing your story!
+
+![Image of site](../socialSite/projImg.png)
