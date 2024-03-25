@@ -1,6 +1,6 @@
 # [SocialSite](https://users.metropolia.fi/~abdura/socialSite/)
 
-![SocialSite Banner](https://picsum.photos/1000/100)
+![SocialSite Banner](https://picsum.photos/id/50/1000/150)
 
 ## Introduction
 
