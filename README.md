@@ -1,4 +1,4 @@
-# SocialSite
+# [SocialSite](https://users.metropolia.fi/~abdura/socialSite/)
 
 ## Introduction
 
@@ -33,6 +33,10 @@ Your own space to shine! Every user gets a personalized profile page. Plus, enjo
 - Vite: Speeds up the development process for a smoother experience.
 - Backend (provided by teacher): The backbone of the platform, ensuring everything runs smoothly.
 
+## Backend
+
+The backend used for this project was provided by the teacher
+
 ## Getting Started
 
 Quick tip: Don't forget to connect via eduroam or Metropolia VPN!
@@ -41,4 +45,18 @@ Ready to dive in? Just head over to [https://users.metropolia.fi/~abdura/socialS
 
 Experience innovation and collaboration at its finest with **SocialSite**. Join us today and start sharing your story!
 
+## Want to run it on your computer?
+
+1. Clone this repo or download ZIP
+2. Navigate to the project and open terminal
+3. Run `npm i` or `npm install`
+4. Duplicate the env sample and rename it to .env
+5. Remember to use Metropolia VPN or eduroam WiFi
+6. Run `npm run dev`
+
+## Bugs
+
+Registration and login might not work sometimes.
+
 ![Project Image](https://github.com/Aputiti/SocialSite/assets/111983344/72e6b2fd-9460-44f4-9c5a-8e4286bdc3b3)
+![Project Image 2](INPUT LINK)
