@@ -1,5 +1,7 @@
 # [SocialSite](https://users.metropolia.fi/~abdura/socialSite/)
 
+![SocialSite Banner](https://picsum.photos/1000/100)
+
 ## Introduction
 
 Welcome to **SocialSite**! Are you ready to dive into a dynamic media-sharing adventure? Built with React, this platform lets you upload your own media content while exploring what others have shared.
@@ -35,13 +37,13 @@ Your own space to shine! Every user gets a personalized profile page. Plus, enjo
 
 ## Backend
 
-The backend used for this project was provided by the teacher
+The backend used for this project was provided by the teacher.
 
 ## Getting Started
 
 Quick tip: Don't forget to connect via eduroam or Metropolia VPN!
 
-Ready to dive in? Just head over to [https://users.metropolia.fi/~abdura/socialSite/] and let the fun begin! Sign up, log in, and start sharing your media content while connecting with fellow users.
+Ready to dive in? Just head over to [SocialSite](https://users.metropolia.fi/~abdura/socialSite/) and let the fun begin! Sign up, log in, and start sharing your media content while connecting with fellow users.
 
 Experience innovation and collaboration at its finest with **SocialSite**. Join us today and start sharing your story!
 
@@ -58,5 +60,7 @@ Experience innovation and collaboration at its finest with **SocialSite**. Join 
 
 Registration and login might not work sometimes.
 
+## Some images
+
 ![Project Image](https://github.com/Aputiti/SocialSite/assets/111983344/72e6b2fd-9460-44f4-9c5a-8e4286bdc3b3)
-![Project Image 2](INPUT LINK)
+![Project Image 2](https://github.com/Aputiti/SocialSite/assets/111983344/34f99912-8f22-4148-8a68-15a390f45aff)
